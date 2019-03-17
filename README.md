@@ -11,3 +11,7 @@ The models have been trained individually using CNN on datasets such as CelebA a
 5) Hair: Black_Hair, Blond_Hair, Brown_Hair, Gray_Hair, Bald
 6) Wearing: Wearing_Hat, Wearing_Lipstick, Wearing_Necktie, Eyeglasses
 7) Others: 5_o_Clock_Shadow, Bangs, Heavy_Makeup, Mustache, No_Beard, Pale_Skin, Rosy_Cheeks, Sideburns
+
+https://github.com/ujjwalsharma9/Facial-Attributes-Classification/blob/master/imageTest/hp_feat.jpg
+
+![test on harry potter image](https://github.com/ujjwalsharma9/Facial-Attributes-Classification/blob/master/imageTest/hp_feat.jpg)
